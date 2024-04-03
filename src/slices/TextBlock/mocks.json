@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Magna sint ut velit mollit anim eu veniam velit ut sunt ad labore irure."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
